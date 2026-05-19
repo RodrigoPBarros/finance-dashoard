@@ -1,6 +1,5 @@
 # ⚡ SYSTEM_FINANCE v1.0 | Interactive Terminal
 
-![Preview](assets/preview.png)
 
 Uma aplicação front-end imersiva com estética **Dark/Industrial Minimalista** inspirada em interfaces de terminais e na cultura hacker. O projeto utiliza **JavaScript Vanilla** para criar uma interface dinâmica e reativa que calcula o rendimento de criptoativos em juros compostos, aplicando regras de negócios contábeis e tributação em tempo real com feedbacks visuais fluidos.
 
